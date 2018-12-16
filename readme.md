@@ -5,7 +5,7 @@
 ## Запуск
 
 <ul>
-<li>docker cp final.sh quirky_goldberg:/home/hh-school/</li>
+<li>docker cp final.sh docker_name:/home/hh-school/</li>
 <li>from docker: '~/final.sh <email>'</li>
 <li>enter sudo password: 123</li>
 </ul>
